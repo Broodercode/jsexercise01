@@ -1,5 +1,5 @@
-var age = 19
-var is_subbed = false;
+var age = 17;
+var is_subbed = true;
 
 // I wasn't sure exactly what you were asking for so I just did it both ways I thought it may need to be done.  Then I just decided to do it a third way in a single if statement cause why not.
 
