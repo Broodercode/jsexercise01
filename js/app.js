@@ -3,7 +3,9 @@
 
 // Perhaps it is just me, but the instructions have felt a bit unclear
 
-//this is assignment W9B, the code was modified for this assignement so check a previous commit for assignment W9A
+//this is assignment W9B, the code was modified for this assignement so check a previous commit for assignment W9A.
+
+//every iteration is done in these arrays
 var age = [17,19, 25, 15]
 var is_subbed = [true, false, true, false]
 var counter = 0
